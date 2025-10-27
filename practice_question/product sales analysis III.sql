@@ -8,3 +8,5 @@ join
 )t
 on s.product_id=t.product_id
 and s.year=t.first_year;
+
+
